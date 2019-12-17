@@ -1,2 +1,5 @@
-print("hello part 4")
+print("hello part 3")
 
+
+def func():
+    return True
