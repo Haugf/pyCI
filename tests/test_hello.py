@@ -6,7 +6,7 @@ import one
 
 #should fail
 def test_answer():
-    assert one.func() == False
+    assert one.func() == True
 
 #should pass
 def test_2():
