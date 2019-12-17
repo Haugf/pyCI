@@ -1,4 +1,6 @@
 import pytest
+import sys
+sys.path.append("../pyCL")
 import one
 
 #should fail
