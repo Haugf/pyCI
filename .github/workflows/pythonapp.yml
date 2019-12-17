@@ -27,8 +27,4 @@ jobs:
     - name: Test with pytest
       run: |
         pip install pytest
-<<<<<<< HEAD
         pytest tests/
-=======
-        pytest
->>>>>>> 6e6175fb6a4182fa55c684b3514f49f30c3e64b7
