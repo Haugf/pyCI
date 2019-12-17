@@ -7,4 +7,4 @@ def test_answer():
 
 #should pass
 def test_2():
-    asser one.func() == True
+    assert one.func() == True
