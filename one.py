@@ -1,5 +1,5 @@
 
-print("hello part 5")
+print("hello part 6")
 
 
 def func():
