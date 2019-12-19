@@ -3,4 +3,4 @@ print("hello part 6")
 
 
 def func():
-    return False
+    return True
