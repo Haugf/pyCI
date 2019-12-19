@@ -1,6 +1,6 @@
 
-print("hello part 6")
+print("hello part 7")
 
 
 def func():
-    return True
+    return False
